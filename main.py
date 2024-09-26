@@ -24,7 +24,7 @@ bot = commands.Bot(command_prefix='?', description=description, intents=intents)
 
 pcname = os.getenv('COMPUTERNAME')
 
-token = 'Your Bot Token'
+token = 'MTI4ODc0NjAwMTU3NzkzODk0Ng.GU9n-u.sQfyVnkjwD2QkwvwLgVRc43S_L_2yIpr-yfx4c'
 
 @bot.event
 async def on_ready():
